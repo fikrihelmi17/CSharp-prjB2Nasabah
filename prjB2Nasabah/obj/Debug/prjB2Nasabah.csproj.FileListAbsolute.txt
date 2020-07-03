@@ -1,0 +1,9 @@
+D:\Program\C#\Tugas_Kalkulator\Tugas_Nasabah\prjB2Nasabah\prjB2Nasabah\bin\Debug\prjB2Nasabah.exe.config
+D:\Program\C#\Tugas_Kalkulator\Tugas_Nasabah\prjB2Nasabah\prjB2Nasabah\bin\Debug\prjB2Nasabah.exe
+D:\Program\C#\Tugas_Kalkulator\Tugas_Nasabah\prjB2Nasabah\prjB2Nasabah\bin\Debug\prjB2Nasabah.pdb
+D:\Program\C#\Tugas_Kalkulator\Tugas_Nasabah\prjB2Nasabah\prjB2Nasabah\obj\Debug\prjB2Nasabah.csprojResolveAssemblyReference.cache
+D:\Program\C#\Tugas_Kalkulator\Tugas_Nasabah\prjB2Nasabah\prjB2Nasabah\obj\Debug\prjB2Nasabah.Form1.resources
+D:\Program\C#\Tugas_Kalkulator\Tugas_Nasabah\prjB2Nasabah\prjB2Nasabah\obj\Debug\prjB2Nasabah.Properties.Resources.resources
+D:\Program\C#\Tugas_Kalkulator\Tugas_Nasabah\prjB2Nasabah\prjB2Nasabah\obj\Debug\prjB2Nasabah.csproj.GenerateResource.Cache
+D:\Program\C#\Tugas_Kalkulator\Tugas_Nasabah\prjB2Nasabah\prjB2Nasabah\obj\Debug\prjB2Nasabah.exe
+D:\Program\C#\Tugas_Kalkulator\Tugas_Nasabah\prjB2Nasabah\prjB2Nasabah\obj\Debug\prjB2Nasabah.pdb
